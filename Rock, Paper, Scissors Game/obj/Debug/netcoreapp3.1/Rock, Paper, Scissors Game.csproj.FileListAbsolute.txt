@@ -1,0 +1,13 @@
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.exe
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.deps.json
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.runtimeconfig.json
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.dll
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.pdb
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.dll
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.pdb
+C:\Users\Ryan\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.genruntimeconfig.cache
